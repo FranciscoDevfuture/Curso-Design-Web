@@ -1,0 +1,233 @@
+Aula 1 - Introdução a Web
+
+
+A Web (abreviação de World Wide Web) é um sistema de informações que permite o acesso a documentos e outros recursos pela internet, utilizando navegadores como Google Chrome, Firefox, Edge, entre outros. Foi criada por Tim Berners-Lee em 1989 para facilitar o compartilhamento de informações.
+
+
+
+Como funciona?
+
+A Web funciona com base em três tecnologias principais:
+
+•
+HTML (HyperText Markup Language): Define a estrutura e o conteúdo das páginas.
+
+•
+HTTP (HyperText Transfer Protocol): Um protocolo que permite a comunicação entre navegadores (clientes) e servidores onde os conteúdos estão armazenados.
+
+•
+URLs (Uniform Resource Locators): Identificadores únicos para localizar páginas e recursos na Web.
+
+Quando um usuário insere uma URL no navegador, este envia uma solicitação ao servidor correspondente usando o protocolo HTTP. O servidor responde com os dados da página, que o navegador interpreta e exibe.
+
+Características da Web
+
+•
+Hipertextos: Permitem a navegação entre documentos interconectados por links.
+
+•
+Multimídia: Suporta diversos formatos de conteúdo, como texto, imagem, áudio e vídeo.
+
+•
+Acessibilidade Global: Está disponível em qualquer lugar com acesso à internet.
+
+
+
+Evolução da Web
+
+•
+Web 1.0 (Estática): Primeira geração da Web, com páginas simples e leitura unidirecional (usuário apenas consumia conteúdo).
+
+•
+Web 2.0 (Interativa): Trouxe interatividade, redes sociais e a possibilidade de os usuários criarem e compartilharem conteúdo.
+
+•
+Web 3.0 (Semântica): Enfatiza a personalização, inteligência artificial e dados conectados para experiências mais intuitivas e dinâmicas.
+
+
+
+
+
+
+Prototipação de projetos
+
+A prototipagem é uma etapa essencial no desenvolvimento de websites e aplicações web, pois permite visualizar, testar e validar ideias antes de investir tempo e recursos em codificação. Existem dois tipos principais de protótipos usados nesta fase: protótipos de baixa fidelidade e protótipos de alta fidelidade.
+
+
+
+
+
+Protótipos de Baixa fidelidade
+Introdução
+
+São esboços iniciais que representam a estrutura básica de uma interface, geralmente sem muitos detalhes visuais. Focam mais no layout, na organização dos elementos e na navegação do site.
+
+Costumam ser simples e rápidos de criar, podendo ser feitos em papel, quadro branco ou ferramentas digitais simples.
+
+Principais Características
+
+Simples e Rápidos: Feitos para testar ideias rapidamente.
+
+Pouco Detalhamento: Não incluem cores, imagens finais ou tipografia específica.
+
+Foco na Funcionalidade: Concentram-se em mapear a experiência do usuário e definir o fluxo de navegação.
+
+Iteração Rápida: Por serem fáceis de criar e modificar, facilitam mudanças rápidas com base no feedback.
+
+Ferramentas Comuns
+
+Papel e Caneta: Simples e eficaz para esboçar ideias rapidamente.
+
+Wireframing Tools: Figma (modo wireframe), Balsamiq, Adobe XD (modo de prototipagem simples).
+
+Quadros Brancos Virtuais: Miro, FigJam, para colaboração remota.
+
+
+
+Quanto às suas Vantagens
+
+Baixo Custo: Não exige recursos complexos para ser feito.
+
+Rápido Feedback: Permite obter feedback inicial dos stakeholders ou usuários sem gastar tempo em design complexo.
+
+Flexibilidade: Mudanças podem ser feitas facilmente sem impacto significativo no projeto.
+
+
+
+Algumas Desvantagens
+
+Pouca Precisão Visual: Pode ser difícil para os stakeholders visualizarem o produto final, já que a aparência estética não é abordada.
+
+Foco Limitado em Detalhes: Não mostra como o site realmente ficará, apenas sua estrutura e funcionalidade básica.
+
+
+
+
+Protótipos de Alta Fidelidade
+Introdução
+
+São representações mais detalhadas e próximas do produto final. Incluem cores, tipografia, imagens, ícones e, frequentemente, animações e interações.
+
+São criados após a validação de protótipos de baixa fidelidade e ajudam a simular a experiência final do usuário.
+
+
+Principais Características
+
+Visual Realista: Reproduzem a aparência final do produto.
+
+Interatividade: Muitas vezes, são clicáveis e simulam como o site ou aplicativo funcionará de verdade.
+
+Feedback Preciso: Permitem testes de usabilidade mais precisos, pois os usuários podem experimentar a interface quase como se fosse o produto final.
+
+Aprovação de Stakeholders: Facilitam a compreensão do projeto pelos stakeholders, pois mostram uma visão clara do que será entregue.
+
+
+Ferramentas Comuns
+
+Figma: Ferramenta robusta para design colaborativo e prototipagem.
+
+Adobe XD: Ótima para criar interfaces com alta fidelidade e interações.
+
+Sketch: Popular entre designers para criar protótipos de alta fidelidade.
+
+InVision: Usada para criar protótipos clicáveis e compartilhar com equipes.
+
+
+
+
+
+Quanto às suas Vantagens
+
+Aparência Realista: Dá uma visão precisa de como será o produto final.
+
+Teste de Usabilidade Eficaz: Permite identificar problemas na experiência do usuário antes da implementação.
+
+Feedback Visual Claro: Facilita a validação e aprovação pelos stakeholders.
+
+
+Algumas Desvantagens
+
+Maior Custo e Tempo: Leva mais tempo para ser criado e exige mais esforço.
+
+Menos Flexível para Mudanças: Alterações podem ser mais demoradas, especialmente se o design for complexo.
+
+Possível Desvio de Foco: Focar demais na estética e não na funcionalidade pode prejudicar a identificação de problemas de usabilidade.
+
+
+
+Mercado de Trabalho e carreira
+
+Como era no passado?
+
+Salario medio de um desenvolvedor de softwere Front-End em Desing web pode variar por volta de R$ 3.00
+
+
+
+Prototipagem :
+
+Baixa fidelidade > fazer a mão, esboço tipo diagrama.
+
+Wireframe.cc
+Figma
+Balsamiq Mockup
+
+
+
+Protótipo de Alta Fidelidade
+Projeto com função ativas
+> Figma
+>Canvas
+>JuntinMind
+>Miro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
